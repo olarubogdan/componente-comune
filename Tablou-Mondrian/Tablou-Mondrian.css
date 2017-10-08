@@ -1,0 +1,146 @@
+/*=== Canvas ===*/
+
+#canvas{
+  width: 500px;
+  height: 500px;
+  background-color: ivory;
+  margin: 0 auto;
+  box-shadow: 15px 15px 10px gray;
+}
+
+/*=== First Row ===*/
+
+#first-row{
+  height: 75%;
+  width: 100%;
+}
+
+/*=== Big Rectangle ===*/
+
+#big-rectangle{
+  height: 100%;
+  width: 75%;
+}
+.red{
+  background-color: #EA3232;
+}
+
+/*=== Right positioning ===*/
+
+.right{
+  float:right;
+}
+
+/*=== First Divider ===*/
+
+#first-divider{
+  height: 100%;
+  width: 3%;
+}
+
+.black{
+  background-color:black;
+}
+
+/*=== First Column ===*/
+
+#first-column{
+  height: 100%;
+  width: 22%;
+}
+
+/*===Second Divider===*/
+
+#second-divider{
+  height: 3%;
+  width :100%;
+}
+
+/*=== First Medium Rectangle ===*/
+
+#first-medium-rectangle{
+  height: 48.5%;
+  width: 100%;
+  background-color: #DCDBD4;
+}
+
+
+/*=== Second Medium Rectangle===*/
+
+#second-medium-rectangle{
+  height: 48.5%;
+  width: 100%;
+  background-color:#E6E4E4 ;
+
+}
+
+/*=== Second Row ===*/
+
+#second-row{
+  height: 3%;
+  width: 100%;
+}
+
+/*=== Third Row ===*/
+
+#third-row{
+  height: 22%;
+  width: 100%;
+}
+
+/*=== Last Column ===*/
+
+#last-column{
+  height: 100%;
+  width: 8%;
+}
+
+#first-small-rectangle{
+  width: 100%;
+  height: 42.5%;
+  background-color: #EBE9E9;
+}
+
+#third-divider{
+  width: 100%;
+  height: 15%;
+}
+
+#second-small-rectangle{
+  width: 100%;
+  height: 42.5%;
+}
+
+.yellow{
+  background-color: #EDD36D;
+}
+
+/*=== Fourth Divider ===*/
+
+#fourth-divider{
+  height: 100%;
+  width: 3%;
+}
+
+/*=== Third Medium divider ===*/
+
+#third-medium-rectangle{
+  height:100%;
+  width:64%;
+  background-color:#E1E1DF;
+}
+
+/*=== Fifth Divider ===*/
+
+#fifth-divider{
+  height:100%;
+  width:3%;
+}
+
+/*=== Blue Rectangle ===*/
+
+#blue-rectangle{
+  height:100%;
+  width:22%;
+  background-color:#214C91;
+}
